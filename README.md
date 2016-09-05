@@ -22,7 +22,7 @@ pod "HSBottomPullToRefreshPod"
 
 ## Author
 
-MNG Kargo, sayinhakan81@gmail.com
+Hakan SAYIN, sayinhakan81@gmail.com
 
 ## License
 
