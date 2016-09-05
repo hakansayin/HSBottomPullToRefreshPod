@@ -1,6 +1,6 @@
 # HSBottomPullToRefreshPod
 
-[![CI Status](http://img.shields.io/travis/MNG Kargo/HSBottomPullToRefreshPod.svg?style=flat)](https://travis-ci.org/MNG Kargo/HSBottomPullToRefreshPod)
+[![CI Status](http://img.shields.io/travis/hakansayin/HSBottomPullToRefreshPod.svg?style=flat)](https://travis-ci.org/hakansayin/HSBottomPullToRefreshPod)
 [![Version](https://img.shields.io/cocoapods/v/HSBottomPullToRefreshPod.svg?style=flat)](http://cocoapods.org/pods/HSBottomPullToRefreshPod)
 [![License](https://img.shields.io/cocoapods/l/HSBottomPullToRefreshPod.svg?style=flat)](http://cocoapods.org/pods/HSBottomPullToRefreshPod)
 [![Platform](https://img.shields.io/cocoapods/p/HSBottomPullToRefreshPod.svg?style=flat)](http://cocoapods.org/pods/HSBottomPullToRefreshPod)
@@ -22,7 +22,7 @@ pod "HSBottomPullToRefreshPod"
 
 ## Author
 
-MNG Kargo, hsayin@mngkargo.com.tr
+MNG Kargo, sayinhakan81@gmail.com
 
 ## License
 
