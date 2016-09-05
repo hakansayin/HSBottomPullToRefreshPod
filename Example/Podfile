@@ -1,0 +1,6 @@
+use_frameworks!
+target 'HSBottomPullToRefreshPod_Tests' do
+  pod 'HSBottomPullToRefreshPod', :path => '../'
+  
+  
+end
